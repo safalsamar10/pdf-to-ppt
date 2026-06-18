@@ -1,3 +1,7 @@
 streamlit
 pymupdf
 python-pptx
+matplotlib
+graphviz
+pandas
+Pillow
