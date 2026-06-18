@@ -7,3 +7,4 @@ pdf-to-ppt
 ├── diagram_generator.py
 ├── image_prompt_generator.py
 └── README.md
+requirements.txt
